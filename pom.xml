@@ -44,7 +44,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-        <finalName>SpringBoot.war</finalName>
+        <finalName>SpringBoot</finalName>
     </build>
 
 </project>
